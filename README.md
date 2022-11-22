@@ -1,1 +1,2 @@
-# fbs-rankings
+# FBS Rankings
+by Evertt Mass
