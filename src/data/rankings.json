@@ -1,6 +1,34 @@
-[
-  {
-    "year": 2022,
-    "weeks": []
-  }
-]
+{
+  "weeks": [
+    { 
+      "index": 12,
+      "rankings": [
+        "uga",
+        "osu",
+        "mich",
+        "tcu",
+        "tenn",
+        "lsu",
+        "usc",
+        "bama",
+        "clem",
+        "utah"
+      ]         
+    },
+    {
+      "index": 13,
+      "rankings": [
+        "uga",
+        "osu",
+        "mich",
+        "tcu",
+        "lsu",
+        "usc",
+        "bama",
+        "clem",
+        "ore",
+        "tenn"
+      ]
+    }
+  ]
+}

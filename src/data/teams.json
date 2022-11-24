@@ -1,0 +1,35 @@
+{
+  "uga": {
+    "name": "Georgia"
+  },
+  "mich": {
+    "name": "Michigan"
+  },
+  "tcu": {
+    "name": "TCU"
+  },
+  "lsu": {
+    "name": "LSU"
+  },
+  "usc": {
+    "name": "USC"
+  },
+  "bama": {
+    "name": "Alabama"
+  },
+  "clem": {
+    "name": "Clemson"
+  },
+  "ore": {
+    "name": "Oregon"
+  },
+  "tenn": {
+    "name": "Tennessee"
+  },
+  "osu": {
+    "name": "Ohio State"
+  },
+  "utah": {
+    "name": "Utah"
+  }
+}

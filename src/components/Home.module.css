@@ -1,8 +1,22 @@
 .home {
-  background: #80CCFF;
   bottom: 0;
   left: 0;
   position: absolute;
   right: 0;
   top: 0;
+}
+.weeks {
+  display: flex;
+  gap: 16px;
+  background: #406000;
+  padding: 16px;
+}
+.week{
+  background: #F8F8F8;
+  border: 1px solid #600000;
+  margin-right: 16px;
+  padding: 8px;
+}
+.team {
+  margin: 8px;
 }
